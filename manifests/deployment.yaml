@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: study-buddy-ai
-        image: anishr0007/study-buddy:latest
+        image: anishr0007/study-buddy:v9
         ports:
         - containerPort: 8501
         env:
